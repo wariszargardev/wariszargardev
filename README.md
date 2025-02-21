@@ -40,7 +40,7 @@ Full Stack Web Developer with 5+ years of experience in building scalable, secur
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br />
+<div width="100%" align="center"></div><br />
 
 ## Git Commands Reference
 
