@@ -41,3 +41,46 @@ Full Stack Web Developer with 5+ years of experience in building scalable, secur
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+## Git Commands Reference
+
+| Command | Description |
+|---------|-------------|
+| `git --version` | Check installed Git version |
+| `git config --global user.name "Your Name"` | Set global username |
+| `git config --global user.email "your-email@example.com"` | Set global email |
+| `git config --list` | View Git configuration |
+| `git init` | Initialize a new repository |
+| `git clone <repo-url>` | Clone an existing repository |
+| `git status` | Check the status of working directory |
+| `git add <file>` | Add a specific file to staging |
+| `git add .` | Add all files to staging |
+| `git commit -m "message"` | Commit staged changes |
+| `git push origin <branch>` | Push changes to a remote repository |
+| `git pull origin <branch>` | Fetch and merge changes from the remote repository |
+| `git branch <branch>` | Create a new branch |
+| `git checkout <branch>` | Switch to another branch |
+| `git merge <branch>` | Merge a branch into the current branch |
+| `git checkout -b <branch>` | Create and switch to a new branch |
+| `git branch -d <branch>` | Delete a local branch |
+| `git stash` | Temporarily save changes without committing |
+| `git stash pop` | Apply the stashed changes back |
+| `git stash list` | View all stashes |
+| `git log --oneline` | View commit history |
+| `git reset --hard <commit-hash>` | Reset to a specific commit |
+| `git revert <commit-hash>` | Revert a commit |
+| `git rebase <branch-name>` | Rebase current branch onto another |
+| `git fetch origin` | Fetch latest changes without merging |
+| `git cherry-pick <commit-hash>` | Apply a specific commit to current branch |
+| `git tag <tag-name>` | Create a new tag |
+| `git show <tag-name>` | Show tag details |
+| `git blame <file>` | Show commit history for each line in a file |
+| `git diff` | Show file differences before committing |
+| `git rm <file>` | Remove a file from Git |
+| `git mv <old-name> <new-name>` | Rename a file in Git |
+| `git remote -v` | Show remote repositories |
+| `git reflog` | Show reference logs of HEAD movements |
+
+
