@@ -6,7 +6,7 @@
 
 - Location: Sargodha, Punjab, Pakistan (working remotely)
 - Open to: **remote roles and relocation (UAE, Saudi Arabia, Europe)**
-- Availability: update this line when you are ready (for example, "Available immediately")
+- Availability: **Available immediately**
 
 ---
 
@@ -28,7 +28,7 @@
 ## Experience
 
 ### Full Stack Developer, myAlfred.com (Dubai, remote)
-Oct 2023 to [end date]. Insurance technology platform.
+Oct 2023 to Present. Insurance technology platform.
 
 - Automated the end-to-end policy purchase flow through insurer APIs, reducing a **2-3 hour manual process to a few minutes**.
 - Built a **renewal recommendation engine** that emails customers a personalised plan before policy expiry.
